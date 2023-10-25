@@ -29,3 +29,6 @@ docker-compose down
 ```
 docker-compose up -d
 ```
+# 使用方法
+dataフォルダを作成しPDFファイルを格納(複数可)
+outputフォルダを作成しコードを実行すること.txtファイルとして格納されます。
